@@ -14,4 +14,5 @@
   (interactive)
   (find-file "~/.emacs.d/init.el"))
 
+(global-set-key (kbd "C-w") 'backward-kill-word)
 (provide 'init-keybinding)

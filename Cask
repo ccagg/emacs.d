@@ -13,3 +13,4 @@
 (depends-on "popwin")
 (depends-on "smartparens")
 (depends-on "swiper")
+(depends-on "window-numbering")

@@ -5,6 +5,7 @@
  ;; If there is more than one, they won't work right.
  '(company-idle-delay 0.05)
  '(company-minimum-prefix-length 2)
+ '(evil-want-C-u-scroll t)
  '(initial-frame-alist (quote ((fullscreen . maximized)))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.

@@ -33,6 +33,9 @@
 (require 'evil)
 (evil-mode t)
 
+(window-numbering-mode 1)
+
+
 (require 'chinese-pyim)
 (chinese-pyim-greatdict-enable)
 (setq default-input-method "chinese-pyim")
