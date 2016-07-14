@@ -1,0 +1,17 @@
+;; -*- coding: utf-8 -*-
+zhong-wen 中文
+z-w 中文
+shu-ru 输入
+s-r 输入
+shu-ru-fa 输入法
+s-r-f 输入法
+ci-chu 此处
+c-c 此处
+de 的
+d 的
+she-zhi 设置
+s-z 设置
+you 有
+y 有
+wen-ti 问题
+w-t 问题

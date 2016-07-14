@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ package-list-packages
+ emacs-lisp-mode
+ customize-group
+ 5x5
+ cd
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (package-list-packages . 5)
+ (5x5 . 1)
+ (customize-group . 1)
+ (emacs-lisp-mode . 1)
+)

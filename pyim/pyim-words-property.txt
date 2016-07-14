@@ -1,0 +1,4 @@
+;; -*- coding: utf-8 -*-
+中文 :count 2
+输入 :count 3
+输入法 :count 2
